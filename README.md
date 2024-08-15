@@ -1,3 +1,5 @@
+****REAL ESTATE CUSTOMER SERVICE CHATBOT****
+
 Step 1: Get an gemini API key from google AI studio(gemini-1.5-pro-latest)
 step 2: In this project ,we import streamlit which is a framework through which the website runs.
 Step 3: we also import generativeai which is used to generate AI-based responses .
