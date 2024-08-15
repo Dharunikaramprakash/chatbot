@@ -3,8 +3,7 @@ import google.generativeai as genai
 import base64
 
 st.title("I am your Real Estate Support Agent🌆🛬")
-st.snow()
-st.balloons()
+
 
 if "memory" not in st.session_state:
     st.session_state["memory"] = []
